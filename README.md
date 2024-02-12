@@ -36,9 +36,8 @@
 ## About the game
 
 Welcome to **The Legend of Zelda: The Ring of Power** - A new brand *The Legend of Zelda* fan game!
-This game is intended as an apocryphal narrative and interactive game, inspired by the text-based fantasy adventure game __*Zork*__, that stands as a sequel to **The Legend of Zelda: Tears of the Kingdom** .
 
-The game will feature an interactive UI through React! However, is still work in progress...
-
+This game is intended as an apocryphal narrative and interactive game, inspired by the text-based fantasy adventure game __*Zork*__, that stands as a sequel to **The Legend of Zelda: Tears of the Kingdom**.
+It will feature an interactive UI through React! However, is still work in progress...
 
 Please enjoy!
